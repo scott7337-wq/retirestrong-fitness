@@ -148,17 +148,8 @@ const FitnessApp = () => {
         difficulty: 'beginner',
         muscleGroup: 'Legs',
         equipment: 'Chair (home/gym)',
-        imageUrl: 'https://via.placeholder.com/400x300/0d9488/ffffff?text=Chair+Squats',
+        videoUrl: 'https://www.youtube.com/embed/VMqvMvS9WIo',
         instructions: '1. Stand in front of a sturdy chair\n2. Lower yourself until you lightly touch the seat\n3. Push through your heels to stand\n4. Keep chest up and core engaged',
-        detailedSteps: [
-          'Position yourself 6-12 inches in front of a sturdy chair',
-          'Stand with feet shoulder-width apart, toes slightly pointed out',
-          'Extend arms forward for balance',
-          'Bend at hips and knees, lowering until buttocks lightly touch seat',
-          'Keep weight in your heels, chest lifted, and back straight',
-          'Push through heels to return to standing',
-          'Squeeze glutes at the top of the movement'
-        ],
         sets: '2-3',
         reps: '8-12',
         benefits: 'Strengthens legs and improves balance',
@@ -169,17 +160,8 @@ const FitnessApp = () => {
         difficulty: 'beginner',
         muscleGroup: 'Chest/Arms',
         equipment: 'Wall (home/gym)',
-        imageUrl: 'https://via.placeholder.com/400x300/0d9488/ffffff?text=Wall+Push-ups',
+        videoUrl: 'https://www.youtube.com/embed/PpP5PuRyE4s',
         instructions: '1. Stand arm\'s length from wall\n2. Place hands on wall at shoulder height\n3. Bend elbows to lean toward wall\n4. Push back to starting position',
-        detailedSteps: [
-          'Stand facing a wall at arm\'s length distance',
-          'Place hands flat on wall at shoulder height and width',
-          'Keep feet hip-width apart for stability',
-          'Bend elbows to lower chest toward wall',
-          'Keep body in a straight line from head to heels',
-          'Push back to starting position',
-          'Breathe in as you lower, out as you push away'
-        ],
         sets: '2-3',
         reps: '10-15',
         benefits: 'Builds upper body strength safely',
@@ -190,17 +172,8 @@ const FitnessApp = () => {
         difficulty: 'beginner',
         muscleGroup: 'Back',
         equipment: 'Resistance Band (home)',
-        imageUrl: 'https://via.placeholder.com/400x300/0d9488/ffffff?text=Seated+Rows',
+        videoUrl: 'https://www.youtube.com/embed/GZbPMrx9LVg',
         instructions: '1. Sit with legs extended, band around feet\n2. Hold band handles with arms extended\n3. Pull elbows back, squeezing shoulder blades\n4. Slowly return to start',
-        detailedSteps: [
-          'Sit on floor with legs extended straight',
-          'Wrap resistance band around both feet',
-          'Hold one handle in each hand with arms fully extended',
-          'Sit tall with chest up and shoulders back',
-          'Pull handles toward torso, driving elbows back',
-          'Squeeze shoulder blades together at the end',
-          'Slowly release back to starting position with control'
-        ],
         sets: '2-3',
         reps: '10-12',
         benefits: 'Improves posture and back strength',
@@ -211,17 +184,8 @@ const FitnessApp = () => {
         difficulty: 'intermediate',
         muscleGroup: 'Arms',
         equipment: 'Dumbbells (home/gym)',
-        imageUrl: 'https://via.placeholder.com/400x300/f59e0b/ffffff?text=Bicep+Curls',
+        videoUrl: 'https://www.youtube.com/embed/ykJmrZ5v0Oo',
         instructions: '1. Stand with dumbbells in each hand\n2. Keep elbows close to body\n3. Curl weights toward shoulders\n4. Lower with control',
-        detailedSteps: [
-          'Stand with feet shoulder-width apart',
-          'Hold dumbbells at sides with palms facing forward',
-          'Keep elbows tucked close to your ribcage',
-          'Curl weights up toward shoulders without moving upper arms',
-          'Squeeze biceps at the top',
-          'Lower dumbbells slowly and with control',
-          'Avoid swinging or using momentum'
-        ],
         sets: '2-3',
         reps: '10-15',
         benefits: 'Strengthens arms for daily activities',
@@ -232,17 +196,8 @@ const FitnessApp = () => {
         difficulty: 'intermediate',
         muscleGroup: 'Chest',
         equipment: 'Dumbbells & Bench',
-        imageUrl: 'https://via.placeholder.com/400x300/f59e0b/ffffff?text=Chest+Press',
+        videoUrl: 'https://www.youtube.com/embed/VmB1G1K7v94',
         instructions: '1. Lie on bench with dumbbells at chest\n2. Press weights up until arms extended\n3. Lower with control\n4. Keep back flat',
-        detailedSteps: [
-          'Lie flat on bench with feet firmly on floor',
-          'Hold dumbbells at chest level with elbows at 90 degrees',
-          'Press weights up until arms are fully extended',
-          'Keep wrists straight and aligned over elbows',
-          'Lower dumbbells slowly until elbows are at 90 degrees',
-          'Maintain natural arch in lower back',
-          'Keep shoulder blades pulled back and down'
-        ],
         sets: '3',
         reps: '8-12',
         benefits: 'Builds chest and arm strength',
@@ -253,17 +208,8 @@ const FitnessApp = () => {
         difficulty: 'intermediate',
         muscleGroup: 'Legs',
         equipment: 'Dumbbell/Kettlebell',
-        imageUrl: 'https://via.placeholder.com/400x300/f59e0b/ffffff?text=Goblet+Squats',
+        videoUrl: 'https://www.youtube.com/embed/MeHQ9xqcIBU',
         instructions: '1. Hold weight at chest level\n2. Feet shoulder-width apart\n3. Squat down keeping chest up\n4. Drive through heels',
-        detailedSteps: [
-          'Hold dumbbell or kettlebell at chest with both hands',
-          'Stand with feet slightly wider than shoulder-width',
-          'Point toes slightly outward',
-          'Keep elbows pointed down and chest up',
-          'Lower into squat by bending knees and hips',
-          'Go as low as comfortable while keeping heels down',
-          'Drive through heels to return to standing'
-        ],
         sets: '3',
         reps: '8-12',
         benefits: 'Full leg development',
@@ -274,18 +220,8 @@ const FitnessApp = () => {
         difficulty: 'intermediate',
         muscleGroup: 'Core',
         equipment: 'None',
-        imageUrl: 'https://via.placeholder.com/400x300/f59e0b/ffffff?text=Plank+Hold',
+        videoUrl: 'https://www.youtube.com/embed/ASdvN_XEl_c',
         instructions: '1. Start on forearms and toes\n2. Keep body straight\n3. Engage core and glutes\n4. Hold 20-45 seconds',
-        detailedSteps: [
-          'Start on hands and knees on floor or mat',
-          'Lower onto forearms with elbows under shoulders',
-          'Extend legs back, balancing on toes',
-          'Create straight line from head to heels',
-          'Engage core by pulling belly button toward spine',
-          'Squeeze glutes and keep hips level',
-          'Look at floor to keep neck neutral',
-          'Hold position for specified time'
-        ],
         sets: '2-3',
         reps: 'Hold',
         benefits: 'Core strength',
@@ -298,17 +234,8 @@ const FitnessApp = () => {
         difficulty: 'beginner',
         duration: '15-30 min',
         equipment: 'None',
-        imageUrl: 'https://via.placeholder.com/400x300/0d9488/ffffff?text=Brisk+Walking',
+        videoUrl: 'https://www.youtube.com/embed/lqRvSWkQhYA',
         instructions: 'Walk at a pace where you can talk but feel slightly breathless.',
-        detailedSteps: [
-          'Warm up with 5 minutes of slow walking',
-          'Increase pace to brisk walk (3-4 mph)',
-          'Swing arms naturally at your sides',
-          'Keep shoulders back and head up',
-          'Land on heel and roll through to toe',
-          'Maintain steady breathing rhythm',
-          'Cool down with 5 minutes slow walking'
-        ],
         benefits: 'Heart health, low-impact'
       },
       {
@@ -316,17 +243,8 @@ const FitnessApp = () => {
         difficulty: 'intermediate',
         duration: '20-30 min',
         equipment: 'Bike',
-        imageUrl: 'https://via.placeholder.com/400x300/f59e0b/ffffff?text=Stationary+Bike',
+        videoUrl: 'https://www.youtube.com/embed/Y2e8p4uVBPM',
         instructions: 'Cycle at moderate intensity. Adjust resistance to feel challenged.',
-        detailedSteps: [
-          'Adjust seat so leg is slightly bent at bottom of pedal stroke',
-          'Warm up with 5 minutes low resistance',
-          'Increase resistance to moderate level',
-          'Maintain steady cadence (60-80 RPM)',
-          'Keep upper body relaxed',
-          'Breathe steadily throughout',
-          'Cool down with 5 minutes low resistance'
-        ],
         benefits: 'Low-impact cardio'
       }
     ],
@@ -336,18 +254,8 @@ const FitnessApp = () => {
         difficulty: 'beginner',
         duration: '30 sec each',
         equipment: 'Chair',
-        imageUrl: 'https://via.placeholder.com/400x300/0d9488/ffffff?text=Hamstring+Stretch',
+        videoUrl: 'https://www.youtube.com/embed/5nBXDs8U5xM',
         instructions: 'Sit on edge of chair, extend one leg. Lean forward gently.',
-        detailedSteps: [
-          'Sit on edge of sturdy chair',
-          'Extend one leg straight with heel on floor',
-          'Keep other foot flat on floor with knee bent',
-          'Place hands on bent knee for support',
-          'Hinge forward from hips keeping back straight',
-          'Feel stretch in back of extended leg',
-          'Hold without bouncing',
-          'Switch legs and repeat'
-        ],
         benefits: 'Reduces lower back tension'
       }
     ],
@@ -357,19 +265,8 @@ const FitnessApp = () => {
         difficulty: 'beginner',
         duration: '30 sec each',
         equipment: 'Wall',
-        imageUrl: 'https://via.placeholder.com/400x300/0d9488/ffffff?text=Balance+Stand',
+        videoUrl: 'https://www.youtube.com/embed/vhjoMD-32AM',
         instructions: 'Stand near wall. Lift one foot slightly off ground.',
-        detailedSteps: [
-          'Stand next to wall with feet hip-width apart',
-          'Lightly touch wall with fingertips for balance',
-          'Shift weight to one leg',
-          'Lift other foot 2-3 inches off floor',
-          'Keep standing leg slightly bent',
-          'Focus eyes on fixed point ahead',
-          'Hold for 30 seconds',
-          'As you improve, reduce wall contact',
-          'Switch legs and repeat'
-        ],
         benefits: 'Fall prevention'
       }
     ]
@@ -955,14 +852,14 @@ ${bodyMetrics.length > 0 ? `- Weight: ${bodyMetrics[bodyMetrics.length-1].weight
                 )}
               </div>
               
-              {exercise.imageUrl && (
+              {exercise.videoUrl && (
                 <div className="mb-3">
                   <button
                     onClick={() => setSelectedExerciseVideo(exercise)}
                     className="flex items-center gap-2 px-4 py-2 bg-teal-600 text-white rounded-lg hover:bg-teal-700 text-sm"
                   >
-                    <CheckCircle size={16} />
-                    View Detailed Instructions
+                    <Video size={16} />
+                    Watch Demonstration
                   </button>
                 </div>
               )}
@@ -1515,77 +1412,51 @@ ${bodyMetrics.length > 0 ? `- Weight: ${bodyMetrics[bodyMetrics.length-1].weight
     if (!selectedExerciseVideo) return null;
 
     return (
-      <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50 overflow-y-auto">
-        <div className="bg-white rounded-xl p-6 max-w-2xl w-full my-8">
+      <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50">
+        <div className="bg-white rounded-xl p-6 max-w-2xl w-full">
           <div className="flex justify-between items-start mb-4">
             <h3 className="text-2xl font-bold text-slate-900">{selectedExerciseVideo.name}</h3>
             <button
               onClick={() => setSelectedExerciseVideo(null)}
-              className="text-slate-500 hover:text-slate-700 text-2xl leading-none"
+              className="text-slate-500 hover:text-slate-700 text-2xl"
             >
               ✕
             </button>
           </div>
           
           <div className="mb-4">
-            <img 
-              src={selectedExerciseVideo.imageUrl} 
-              alt={selectedExerciseVideo.name}
-              className="w-full rounded-lg shadow-md"
-            />
+            <div className="aspect-video bg-slate-100 rounded-lg flex items-center justify-center mb-3">
+              <div className="text-center p-8">
+                <Video className="mx-auto mb-3 text-teal-600" size={48} />
+                <p className="text-slate-700 mb-4">Watch this exercise demonstration on YouTube</p>
+                <button
+                  onClick={() => {
+                    window.open(selectedExerciseVideo.videoUrl.replace('/embed/', '/watch?v='), '_blank');
+                  }}
+                  className="px-6 py-3 bg-red-600 text-white rounded-lg hover:bg-red-700 font-semibold flex items-center gap-2 mx-auto"
+                >
+                  <Video size={20} />
+                  Open in YouTube
+                </button>
+              </div>
+            </div>
           </div>
 
-          {selectedExerciseVideo.detailedSteps && (
-            <div className="mb-4 p-4 bg-teal-50 rounded-lg">
-              <h4 className="font-semibold text-slate-900 mb-3 flex items-center gap-2">
-                <CheckCircle className="text-teal-600" size={20} />
-                Step-by-Step Instructions:
-              </h4>
-              <ol className="space-y-2">
-                {selectedExerciseVideo.detailedSteps.map((step, idx) => (
-                  <li key={idx} className="flex gap-3">
-                    <span className="flex-shrink-0 w-6 h-6 bg-teal-600 text-white rounded-full flex items-center justify-center text-sm font-semibold">
-                      {idx + 1}
-                    </span>
-                    <span className="text-slate-700 leading-relaxed">{step}</span>
-                  </li>
-                ))}
-              </ol>
-            </div>
-          )}
-
-          <div className="p-4 bg-slate-50 rounded-lg mb-3">
+          <div className="p-4 bg-slate-50 rounded-lg">
+            <h4 className="font-semibold text-slate-900 mb-2">Instructions:</h4>
             <p className="text-slate-700 whitespace-pre-line leading-relaxed">{selectedExerciseVideo.instructions}</p>
           </div>
 
           {selectedExerciseVideo.sets && (
-            <div className="p-3 bg-blue-50 rounded-lg">
-              <p className="text-slate-800 mb-1">
+            <div className="mt-3 p-3 bg-teal-50 rounded-lg">
+              <p className="text-slate-800">
                 <span className="font-semibold">Sets & Reps:</span> {selectedExerciseVideo.sets} sets × {selectedExerciseVideo.reps} reps
               </p>
-              <p className="text-slate-700 text-sm">
+              <p className="text-slate-700 text-sm mt-1">
                 <span className="font-semibold">Benefits:</span> {selectedExerciseVideo.benefits}
               </p>
             </div>
           )}
-
-          {selectedExerciseVideo.duration && (
-            <div className="p-3 bg-blue-50 rounded-lg">
-              <p className="text-slate-800 mb-1">
-                <span className="font-semibold">Duration:</span> {selectedExerciseVideo.duration}
-              </p>
-              <p className="text-slate-700 text-sm">
-                <span className="font-semibold">Benefits:</span> {selectedExerciseVideo.benefits}
-              </p>
-            </div>
-          )}
-
-          <button
-            onClick={() => setSelectedExerciseVideo(null)}
-            className="w-full mt-4 bg-teal-600 text-white py-3 rounded-lg hover:bg-teal-700 font-semibold"
-          >
-            Close
-          </button>
         </div>
       </div>
     );
